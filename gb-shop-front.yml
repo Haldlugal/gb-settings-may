@@ -3,4 +3,4 @@ gb.api:
     base-uri: '127.0.0.1:8081'
     manufacturer-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/manufacturer'
     category-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/category'
-    product-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/product'
+    product-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/product123'
