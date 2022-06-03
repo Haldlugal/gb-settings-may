@@ -3,8 +3,8 @@ app.setting: 'ad'
 gb.api:
   endpoint:
     manufacturer-url: 'http://${gb.api.endpoint.base-uri}/api/v1/manufacturer'
-    category-url: 'http://${gb.api.endpoint.base-uri}/api/v1/category44'
-    product-url: 'http://${gb.api.endpoint.base-uri}/api/v1/product333'
+    category-url: 'http://${gb.api.endpoint.base-uri}/api/v1/category'
+    product-url: 'http://${gb.api.endpoint.base-uri}/api/v1/product1'
   connection:
     period: 100
     max-period: 10000 #Millis
