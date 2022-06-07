@@ -4,4 +4,4 @@ gb.api:
     manufacturer-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/manufacturer'
     category-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/category'
     product-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/product'
-    registration-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/user'
+    user-url: 'http://${gb.api.endpoint.base-uri}/external/api/v1/user'
