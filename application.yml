@@ -5,6 +5,7 @@ gb.api:
     manufacturer-url: 'http://${gb.api.endpoint.base-uri}/api/v1/manufacturer'
     category-url: 'http://${gb.api.endpoint.base-uri}/api/v1/category'
     product-url: 'http://${gb.api.endpoint.base-uri}/api/v1/product'
+    user-url: ''
   connection:
     period: 100
     max-period: 10000 #Millis
